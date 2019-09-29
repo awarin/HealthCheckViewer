@@ -1,0 +1,10 @@
+.status-table__error {
+  color : rgb(247, 76, 76);
+}
+.status-table__ok {
+  color : rgb(87, 172, 62);
+}
+
+.service-statuses__table {
+  width: 500px;
+}
